@@ -1,0 +1,8 @@
+import pandas as pd
+
+df = pd.DataFrame({
+    "Name": ["A", "B", "A", "C"],
+    "Marks": [80, 90, 80, 75]
+})
+
+print(df.drop_duplicates())
