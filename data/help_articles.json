@@ -1,0 +1,82 @@
+[
+  {
+    "id": "A01",
+    "title": "Reset Your Password",
+    "content": "If you forgot your password, open the Sign In page and select Forgot Password. Enter your registered email address, open the password-reset email, and create a new password. The reset link expires after 30 minutes; request a new link if it has expired."
+  },
+  {
+    "id": "A02",
+    "title": "Account Locked After Failed Logins",
+    "content": "After five unsuccessful login attempts, an account is temporarily locked for 15 minutes. Wait for the lock period to finish and then sign in again. If you still cannot sign in, reset your password using the Forgot Password option."
+  },
+  {
+    "id": "A03",
+    "title": "Enable Two-Factor Authentication",
+    "content": "Open Settings, choose Security, and select Two-Factor Authentication. Scan the QR code with an authenticator app, enter the six-digit verification code, and save the recovery codes in a secure place."
+  },
+  {
+    "id": "A04",
+    "title": "Disable Two-Factor Authentication",
+    "content": "Go to Settings, Security, and Two-Factor Authentication. Select Disable, enter your current password, and confirm with the verification code from your authenticator app."
+  },
+  {
+    "id": "A05",
+    "title": "Change Your Email Address",
+    "content": "Open Settings and select Account Information. Choose Change Email, enter the new email address, and confirm the change using the verification message sent to the new address. You must be signed in to change the email address."
+  },
+  {
+    "id": "A06",
+    "title": "Update Your Profile Name",
+    "content": "Go to Settings, open Profile, edit your display name, and select Save Changes. Profile-name changes normally appear immediately after saving."
+  },
+  {
+    "id": "A07",
+    "title": "Cancel a Subscription",
+    "content": "Open Settings, select Billing, choose your active subscription, and click Cancel Subscription. Confirm the cancellation. Your access continues until the end of the current paid billing period."
+  },
+  {
+    "id": "A08",
+    "title": "Request a Refund",
+    "content": "Open Billing and select the relevant transaction. Choose Request Refund and provide the reason. Refund requests are reviewed by the billing team; approved refunds are returned to the original payment method."
+  },
+  {
+    "id": "A09",
+    "title": "Payment Failed",
+    "content": "If a payment fails, check that the card is active, has sufficient funds, and that the billing address matches the card details. Retry the payment once the information is corrected. If it continues to fail, contact the billing team."
+  },
+  {
+    "id": "A10",
+    "title": "Download an Invoice",
+    "content": "Open Settings, select Billing, and open Billing History. Choose a completed transaction and click Download Invoice to save the PDF invoice."
+  },
+  {
+    "id": "A11",
+    "title": "Track an Order",
+    "content": "Open Orders from the main dashboard and select the order you want to track. The order page displays the current status and tracking number when one is available."
+  },
+  {
+    "id": "A12",
+    "title": "Change a Delivery Address",
+    "content": "Open Orders and select the order. If the order has not entered shipment processing, choose Edit Address, update the address, and save it. Once shipment processing has started, the address cannot be changed from the dashboard."
+  },
+  {
+    "id": "A13",
+    "title": "Email Notifications",
+    "content": "Go to Settings and open Notifications. Toggle email notifications on or off and select Save. Critical security notifications cannot be disabled."
+  },
+  {
+    "id": "A14",
+    "title": "Clear Browser Cache for Login Problems",
+    "content": "If the website repeatedly shows an old login page, clear the browser cache and cookies for the support portal, close the browser, reopen it, and sign in again. Use a private window to test whether the issue is caused by cached browser data."
+  },
+  {
+    "id": "A15",
+    "title": "Export Account Data",
+    "content": "Open Settings, choose Privacy, and select Export My Data. Confirm the request. A download link is sent to the registered email address when the export is ready."
+  },
+  {
+    "id": "A16",
+    "title": "Contact Support",
+    "content": "If the help-center steps do not resolve the problem, open Help and select Contact Support. Include your account email, a short description of the problem, the steps already attempted, and relevant order or transaction information. Never send your password."
+  }
+]
