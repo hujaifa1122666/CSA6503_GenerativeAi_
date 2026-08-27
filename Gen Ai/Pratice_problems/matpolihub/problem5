@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+
+months = ["Jan", "Feb", "Mar", "Apr"]
+
+company1 = [100, 120, 150, 170]
+company2 = [90, 130, 140, 180]
+
+plt.plot(months, company1, label="Company A")
+plt.plot(months, company2, label="Company B")
+
+plt.xlabel("Months")
+plt.ylabel("Revenue")
+plt.title("Company Revenue Comparison")
+
+plt.legend()
+
+plt.show()

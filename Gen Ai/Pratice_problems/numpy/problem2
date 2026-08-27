@@ -1,0 +1,8 @@
+import numpy as np
+
+arr = np.array([1, 2, 3, 5, 6])
+
+n = 6
+missing = np.setdiff1d(np.arange(1, n + 1), arr)
+
+print("Missing Number:", missing)

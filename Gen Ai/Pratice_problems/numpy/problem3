@@ -1,0 +1,19 @@
+import numpy as np
+
+temp = np.array([
+    [31,32,30,33,34,35,32],
+    [30,31,33,34,35,36,34],
+    [29,30,31,32,33,34,35],
+    [34,35,36,35,34,33,32]
+])
+
+print("Weekly Average:")
+print(np.mean(temp, axis=1))
+
+print("Highest Temperature:", np.max(temp))
+print("Lowest Temperature:", np.min(temp))
+
+avg = np.mean(temp)
+count = np.sum(temp > avg)
+
+print("Days Above Average:", count)

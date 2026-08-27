@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+
+months = ["Jan","Feb","Mar","Apr","May"]
+productA = [20,25,30,35,40]
+productB = [15,22,28,30,38]
+
+plt.plot(months, productA, marker='o', label="Product A")
+plt.plot(months, productB, marker='s', label="Product B")
+
+plt.title("Product Sales Comparison")
+plt.xlabel("Months")
+plt.ylabel("Sales")
+plt.legend()
+plt.grid(True)
+plt.show()
