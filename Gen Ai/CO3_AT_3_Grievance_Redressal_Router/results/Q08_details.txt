@@ -1,0 +1,16 @@
+Query: A broken CCTV camera is making the public area unsafe.
+Expected department(s): Public Safety
+
+FAISS TOP-5
+1. G247 | Public Safety|Electricity | 0.8189 | A broken CCTV camera and a damaged street light are creating a safety problem.
+2. G212 | Public Safety | 0.6994 | People in the neighborhood say that broken CCTV camera needs repair near the railway station The problem has continued for several days.
+3. G220 | Public Safety | 0.6937 | People in the neighborhood say that broken CCTV camera needs repair in the apartment neighborhood Please inspect and resolve this issue.
+4. G228 | Public Safety | 0.6474 | Residents reported that broken CCTV camera needs repair in the residential colony Please inspect and resolve this issue.
+5. G236 | Public Safety | 0.6236 | Several residents complain that broken CCTV camera needs repair near the railway station Kindly send the concerned team.
+
+ChromaDB TOP-5
+1. G247 | Public Safety|Electricity | 0.8189 | A broken CCTV camera and a damaged street light are creating a safety problem.
+2. G212 | Public Safety | 0.6994 | People in the neighborhood say that broken CCTV camera needs repair near the railway station The problem has continued for several days.
+3. G220 | Public Safety | 0.6937 | People in the neighborhood say that broken CCTV camera needs repair in the apartment neighborhood Please inspect and resolve this issue.
+4. G228 | Public Safety | 0.6474 | Residents reported that broken CCTV camera needs repair in the residential colony Please inspect and resolve this issue.
+5. G236 | Public Safety | 0.6236 | Several residents complain that broken CCTV camera needs repair near the railway station Kindly send the concerned team.

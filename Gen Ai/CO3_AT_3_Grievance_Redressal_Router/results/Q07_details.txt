@@ -1,0 +1,16 @@
+Query: My property tax portal is not working.
+Expected department(s): Municipal Services
+
+FAISS TOP-5
+1. G197 | Municipal Services | 0.7403 | A citizen reports that property tax portal is not working in Ward 12 Please inspect and resolve this issue.
+2. G181 | Municipal Services | 0.7203 | People in the neighborhood say that property tax portal is not working near the bus stand This is affecting daily life in the area.
+3. G205 | Municipal Services | 0.7020 | Please address the issue that property tax portal is not working in the apartment neighborhood Residents are requesting a quick solution.
+4. G189 | Municipal Services | 0.6855 | Several residents complain that property tax portal is not working in Ward 12 This is affecting daily life in the area.
+5. G102 | Roads | 0.3622 | People in the neighborhood say that traffic signal is not working in the residential colony Residents are requesting a quick solution.
+
+ChromaDB TOP-5
+1. G197 | Municipal Services | 0.7403 | A citizen reports that property tax portal is not working in Ward 12 Please inspect and resolve this issue.
+2. G181 | Municipal Services | 0.7203 | People in the neighborhood say that property tax portal is not working near the bus stand This is affecting daily life in the area.
+3. G205 | Municipal Services | 0.7020 | Please address the issue that property tax portal is not working in the apartment neighborhood Residents are requesting a quick solution.
+4. G189 | Municipal Services | 0.6855 | Several residents complain that property tax portal is not working in Ward 12 This is affecting daily life in the area.
+5. G102 | Roads | 0.3622 | People in the neighborhood say that traffic signal is not working in the residential colony Residents are requesting a quick solution.

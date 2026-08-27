@@ -1,0 +1,16 @@
+Query: There are dangerous potholes and damaged road surfaces on the main road.
+Expected department(s): Roads
+
+FAISS TOP-5
+1. G091 | Roads | 0.6751 | People in the neighborhood say that large potholes are present on the main road in the residential colony Please inspect and resolve this issue.
+2. G099 | Roads | 0.6564 | Please address the issue that large potholes are present on the main road beside the community centre and request urgent action.
+3. G107 | Roads | 0.6443 | A citizen reports that large potholes are present on the main road near the market Please inspect and resolve this issue.
+4. G242 | Roads|Electricity | 0.6294 | The road has deep potholes and the nearby street lights are also not working.
+5. G092 | Roads | 0.6002 | Several residents complain that road surface is badly damaged beside the community centre and request urgent action.
+
+ChromaDB TOP-5
+1. G091 | Roads | 0.6751 | People in the neighborhood say that large potholes are present on the main road in the residential colony Please inspect and resolve this issue.
+2. G099 | Roads | 0.6564 | Please address the issue that large potholes are present on the main road beside the community centre and request urgent action.
+3. G107 | Roads | 0.6443 | A citizen reports that large potholes are present on the main road near the market Please inspect and resolve this issue.
+4. G242 | Roads|Electricity | 0.6294 | The road has deep potholes and the nearby street lights are also not working.
+5. G092 | Roads | 0.6002 | Several residents complain that road surface is badly damaged beside the community centre and request urgent action.

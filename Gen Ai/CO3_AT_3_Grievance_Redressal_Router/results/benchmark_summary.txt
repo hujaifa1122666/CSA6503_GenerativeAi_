@@ -1,0 +1,19 @@
+GRIEVANCE REDRESSAL ROUTER - BENCHMARK SUMMARY
+=======================================================
+Dataset records: 248
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+Embedding generation time: 1.2467 seconds
+
+database  indexing_time_seconds  average_query_latency_ms  average_relevance_at_5  storage_bytes
+   FAISS               0.000235                   0.16095                    0.98         380973
+ChromaDB               0.119790                   3.02208                    0.98        1183908
+
+Top-5 comparison for Q01, Q02 and Q09:
+query_id                                                                        query               faiss_top5              chroma_top5  overlap_count  overlap_percent
+     Q01              Street lights in my neighborhood have stopped working at night. G001|G009|G025|G017|G241 G001|G009|G025|G017|G241              5            100.0
+     Q02        Garbage is not being collected and waste is accumulating near houses. G077|G061|G069|G085|G086 G077|G061|G069|G085|G086              5            100.0
+     Q09 Street lights are not working and garbage has not been collected in my area. G241|G001|G025|G009|G017 G241|G001|G025|G009|G017              5            100.0
+
+Special case Q09:
+Expected departments: Electricity and Sanitation. Relevance@5 counts a result as relevant when it belongs to either department.
+The query intentionally mentions two departments to test whether semantically similar results from both service areas appear in the top five.

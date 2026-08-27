@@ -1,0 +1,16 @@
+Query: The city bus is irregular and often skips the scheduled stop.
+Expected department(s): Public Transport
+
+FAISS TOP-5
+1. G138 | Public Transport | 0.6313 | People in the neighborhood say that bus did not stop at the scheduled stop in the apartment neighborhood Please inspect and resolve this issue.
+2. G122 | Public Transport | 0.6222 | Please address the issue that bus did not stop at the scheduled stop beside the community centre This is affecting daily life in the area.
+3. G130 | Public Transport | 0.6156 | Several residents complain that bus did not stop at the scheduled stop on Main Road Residents are requesting a quick solution.
+4. G145 | Public Transport | 0.5767 | A citizen reports that bus service is irregular beside the community centre Please inspect and resolve this issue.
+5. G136 | Public Transport | 0.5742 | Residents reported that driver is skipping stops near the bus stand and request urgent action.
+
+ChromaDB TOP-5
+1. G138 | Public Transport | 0.6313 | People in the neighborhood say that bus did not stop at the scheduled stop in the apartment neighborhood Please inspect and resolve this issue.
+2. G122 | Public Transport | 0.6222 | Please address the issue that bus did not stop at the scheduled stop beside the community centre This is affecting daily life in the area.
+3. G130 | Public Transport | 0.6156 | Several residents complain that bus did not stop at the scheduled stop on Main Road Residents are requesting a quick solution.
+4. G145 | Public Transport | 0.5767 | A citizen reports that bus service is irregular beside the community centre Please inspect and resolve this issue.
+5. G136 | Public Transport | 0.5742 | Residents reported that driver is skipping stops near the bus stand and request urgent action.
