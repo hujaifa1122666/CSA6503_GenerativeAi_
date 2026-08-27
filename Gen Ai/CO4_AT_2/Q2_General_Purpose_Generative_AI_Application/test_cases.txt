@@ -1,0 +1,14 @@
+1. Chatbot: Explain generative AI in simple terms.
+2. Chatbot: What is a Transformer model?
+3. Summarization: Paste a long educational paragraph.
+4. Summarization: Paste a news-style paragraph.
+5. QA: Give a context and ask a direct question.
+6. QA: Ask a question not answered by the context.
+7. Translation: English -> Tamil.
+8. Translation: English -> Hindi.
+9. Translation: Tamil -> English.
+10. Translation: Telugu -> English.
+11. Empty chatbot input.
+12. Empty summarizer input.
+13. Empty translation input.
+14. Same source and target language.
