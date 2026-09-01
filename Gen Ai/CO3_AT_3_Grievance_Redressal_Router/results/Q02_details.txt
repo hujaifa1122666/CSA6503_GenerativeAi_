@@ -1,0 +1,16 @@
+Query: Garbage is not being collected and waste is accumulating near houses.
+Expected department(s): Sanitation
+
+FAISS TOP-5
+1. G077 | Sanitation | 0.6989 | Residents reported that garbage has not been collected near the school The problem has continued for several days.
+2. G061 | Sanitation | 0.6878 | Several residents complain that garbage has not been collected near the school Please inspect and resolve this issue.
+3. G069 | Sanitation | 0.6816 | People in the neighborhood say that garbage has not been collected near the school Please inspect and resolve this issue.
+4. G085 | Sanitation | 0.6683 | Several residents complain that garbage has not been collected in Ward 12 and request urgent action.
+5. G086 | Sanitation | 0.6516 | Several residents complain that waste is piling up on the road in the residential colony Please inspect and resolve this issue.
+
+ChromaDB TOP-5
+1. G077 | Sanitation | 0.6989 | Residents reported that garbage has not been collected near the school The problem has continued for several days.
+2. G061 | Sanitation | 0.6878 | Several residents complain that garbage has not been collected near the school Please inspect and resolve this issue.
+3. G069 | Sanitation | 0.6816 | People in the neighborhood say that garbage has not been collected near the school Please inspect and resolve this issue.
+4. G085 | Sanitation | 0.6683 | Several residents complain that garbage has not been collected in Ward 12 and request urgent action.
+5. G086 | Sanitation | 0.6516 | Several residents complain that waste is piling up on the road in the residential colony Please inspect and resolve this issue.

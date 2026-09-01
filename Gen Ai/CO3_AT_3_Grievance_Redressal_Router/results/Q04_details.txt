@@ -1,0 +1,16 @@
+Query: Residents have had no municipal drinking water since yesterday.
+Expected department(s): Water Supply
+
+FAISS TOP-5
+1. G055 | Water Supply | 0.6777 | Residents reported that no water supply since morning near the bus stand This is affecting daily life in the area.
+2. G047 | Water Supply | 0.6689 | Residents reported that no water supply since morning on Main Road The problem has continued for several days.
+3. G039 | Water Supply | 0.6005 | A citizen reports that no water supply since morning near the railway station and request urgent action.
+4. G043 | Water Supply | 0.5347 | Several residents complain that water tanker has not arrived in the old town area This is affecting daily life in the area.
+5. G031 | Water Supply | 0.5339 | Several residents complain that no water supply since morning near the bus stand Kindly send the concerned team.
+
+ChromaDB TOP-5
+1. G055 | Water Supply | 0.6777 | Residents reported that no water supply since morning near the bus stand This is affecting daily life in the area.
+2. G047 | Water Supply | 0.6689 | Residents reported that no water supply since morning on Main Road The problem has continued for several days.
+3. G039 | Water Supply | 0.6005 | A citizen reports that no water supply since morning near the railway station and request urgent action.
+4. G043 | Water Supply | 0.5347 | Several residents complain that water tanker has not arrived in the old town area This is affecting daily life in the area.
+5. G031 | Water Supply | 0.5339 | Several residents complain that no water supply since morning near the bus stand Kindly send the concerned team.

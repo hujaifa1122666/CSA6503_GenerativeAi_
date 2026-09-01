@@ -1,0 +1,11 @@
+query_id,query,expected_department,latency_ms,relevance_at_5,top5_ids
+Q01,Street lights in my neighborhood have stopped working at night.,Electricity,0.14640006702393293,1.0,G001|G009|G025|G017|G241
+Q02,Garbage is not being collected and waste is accumulating near houses.,Sanitation,0.16820000018924475,1.0,G077|G061|G069|G085|G086
+Q03,There are dangerous potholes and damaged road surfaces on the main road.,Roads,0.15189999248832464,1.0,G091|G099|G107|G242|G092
+Q04,Residents have had no municipal drinking water since yesterday.,Water Supply,0.16440008766949177,1.0,G055|G047|G039|G043|G031
+Q05,The city bus is irregular and often skips the scheduled stop.,Public Transport,0.15740003436803818,1.0,G138|G122|G130|G145|G136
+Q06,The government health centre has no medicines available.,Health,0.15159999020397663,1.0,G245|G175|G159|G167|G151
+Q07,My property tax portal is not working.,Municipal Services,0.16300007700920105,0.8,G197|G181|G205|G189|G102
+Q08,A broken CCTV camera is making the public area unsafe.,Public Safety,0.1650999765843153,1.0,G247|G212|G220|G228|G236
+Q09,Street lights are not working and garbage has not been collected in my area.,Electricity|Sanitation,0.17149990890175104,1.0,G241|G001|G025|G009|G017
+Q10,There is a leaking water pipeline beside a road with potholes.,Water Supply|Roads,0.169999897480011,1.0,G058|G050|G034|G042|G242

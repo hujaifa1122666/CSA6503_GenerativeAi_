@@ -1,0 +1,8 @@
+1. Open PowerShell in this folder.
+2. Run: py -m venv .venv
+3. Run: .\.venv\Scripts\Activate.ps1
+4. If activation is blocked: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+5. Run: pip install -r requirements.txt
+6. Run: python app.py
+7. Open results\benchmark_summary.csv
+8. Use the measured values in REPORT_TEMPLATE.md.

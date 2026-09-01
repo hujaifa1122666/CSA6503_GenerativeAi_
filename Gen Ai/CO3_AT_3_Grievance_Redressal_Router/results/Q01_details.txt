@@ -1,0 +1,16 @@
+Query: Street lights in my neighborhood have stopped working at night.
+Expected department(s): Electricity
+
+FAISS TOP-5
+1. G001 | Electricity | 0.8017 | Residents reported that street lights are not working in the apartment neighborhood The problem has continued for several days.
+2. G009 | Electricity | 0.6960 | A citizen reports that street lights are not working in the residential colony Residents are requesting a quick solution.
+3. G025 | Electricity | 0.6896 | A citizen reports that street lights are not working near the railway station and request urgent action.
+4. G017 | Electricity | 0.6496 | Please address the issue that street lights are not working on Main Road Kindly send the concerned team.
+5. G241 | Electricity|Sanitation | 0.6233 | Street lights are not working and garbage has not been collected in Ward 12.
+
+ChromaDB TOP-5
+1. G001 | Electricity | 0.8017 | Residents reported that street lights are not working in the apartment neighborhood The problem has continued for several days.
+2. G009 | Electricity | 0.6960 | A citizen reports that street lights are not working in the residential colony Residents are requesting a quick solution.
+3. G025 | Electricity | 0.6896 | A citizen reports that street lights are not working near the railway station and request urgent action.
+4. G017 | Electricity | 0.6496 | Please address the issue that street lights are not working on Main Road Kindly send the concerned team.
+5. G241 | Electricity|Sanitation | 0.6233 | Street lights are not working and garbage has not been collected in Ward 12.

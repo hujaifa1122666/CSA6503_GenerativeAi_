@@ -1,0 +1,16 @@
+Query: There is a leaking water pipeline beside a road with potholes.
+Expected department(s): Water Supply|Roads
+
+FAISS TOP-5
+1. G058 | Water Supply | 0.6824 | People in the neighborhood say that pipeline is leaking near my house near the bus stand This is affecting daily life in the area.
+2. G050 | Water Supply | 0.6564 | People in the neighborhood say that pipeline is leaking near my house in the apartment neighborhood This is affecting daily life in the area.
+3. G034 | Water Supply | 0.6484 | Residents reported that pipeline is leaking near my house in Ward 12 This is affecting daily life in the area.
+4. G042 | Water Supply | 0.6326 | A citizen reports that pipeline is leaking near my house near the school Residents are requesting a quick solution.
+5. G242 | Roads|Electricity | 0.5204 | The road has deep potholes and the nearby street lights are also not working.
+
+ChromaDB TOP-5
+1. G058 | Water Supply | 0.6824 | People in the neighborhood say that pipeline is leaking near my house near the bus stand This is affecting daily life in the area.
+2. G050 | Water Supply | 0.6564 | People in the neighborhood say that pipeline is leaking near my house in the apartment neighborhood This is affecting daily life in the area.
+3. G034 | Water Supply | 0.6484 | Residents reported that pipeline is leaking near my house in Ward 12 This is affecting daily life in the area.
+4. G042 | Water Supply | 0.6326 | A citizen reports that pipeline is leaking near my house near the school Residents are requesting a quick solution.
+5. G242 | Roads|Electricity | 0.5204 | The road has deep potholes and the nearby street lights are also not working.

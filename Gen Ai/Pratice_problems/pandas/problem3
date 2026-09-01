@@ -1,0 +1,9 @@
+import pandas as pd
+
+df = pd.DataFrame({
+    "Student": ["A", "B", "C"],
+    "Marks": [75, 92, 68]
+})
+
+print("Highest:", df["Marks"].max())
+print("Lowest:", df["Marks"].min())

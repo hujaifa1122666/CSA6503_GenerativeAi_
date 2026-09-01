@@ -1,0 +1,58 @@
+[
+  {
+    "task": "Chatbot",
+    "input": "How do I submit my assignment?"
+  },
+  {
+    "task": "Chatbot",
+    "input": "Where can I download the hall ticket?"
+  },
+  {
+    "task": "Chatbot",
+    "input": "Tell me something about attendance."
+  },
+  {
+    "task": "Chatbot",
+    "input": "What is the syllabus for my subject?"
+  },
+  {
+    "task": "Chatbot",
+    "input": "What is the weather on Mars?"
+  },
+  {
+    "task": "Chatbot",
+    "input": ""
+  },
+  {
+    "task": "Summarizer",
+    "input": "Artificial intelligence is transforming education. Students can use AI tools to organize notes and review concepts. However, AI-generated output should be checked for accuracy and supported with trusted academic resources. Teachers can use AI to create practice questions and personalized learning activities. Institutions should establish responsible-use policies to protect academic integrity."
+  },
+  {
+    "task": "Summarizer",
+    "input": ""
+  },
+  {
+    "task": "Summarizer",
+    "input": "AI supports students."
+  },
+  {
+    "task": "Translator",
+    "input": "Good morning. Please submit your assignment before the deadline."
+  },
+  {
+    "task": "Translator",
+    "input": "The examination timetable has been published."
+  },
+  {
+    "task": "Translator",
+    "input": ""
+  },
+  {
+    "task": "Translator",
+    "input": "வணக்கம். உங்கள் பணியை சமர்ப்பிக்கவும்."
+  },
+  {
+    "task": "Translator",
+    "input": "நாளை தேர்வு நடைபெறும்."
+  }
+]

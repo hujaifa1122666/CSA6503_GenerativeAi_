@@ -1,0 +1,6 @@
+import numpy as np
+
+arr = np.array([5, 2, 8, 2, 5, 9, 1])
+
+print("Original:", arr)
+print("Without Duplicates:", np.unique(arr))

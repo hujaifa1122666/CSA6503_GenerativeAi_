@@ -1,0 +1,10 @@
+1. English text embedding with mBERT
+2. Hindi text embedding with mBERT
+3. Tamil text embedding with mBERT
+4. Telugu text embedding with mBERT
+5. Inspect BERT architecture and use case
+6. Inspect GPT architecture and limitation
+7. Inspect T5 multilingual suitability
+8. Inspect LLaMA-family suitability
+9. Enter empty text and verify UI validation
+10. Compare the four model rows in the comparison table

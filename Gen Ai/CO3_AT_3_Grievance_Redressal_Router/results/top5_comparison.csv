@@ -1,0 +1,4 @@
+query_id,query,faiss_top5,chroma_top5,overlap_count,overlap_percent
+Q01,Street lights in my neighborhood have stopped working at night.,G001|G009|G025|G017|G241,G001|G009|G025|G017|G241,5,100.0
+Q02,Garbage is not being collected and waste is accumulating near houses.,G077|G061|G069|G085|G086,G077|G061|G069|G085|G086,5,100.0
+Q09,Street lights are not working and garbage has not been collected in my area.,G241|G001|G025|G009|G017,G241|G001|G025|G009|G017,5,100.0

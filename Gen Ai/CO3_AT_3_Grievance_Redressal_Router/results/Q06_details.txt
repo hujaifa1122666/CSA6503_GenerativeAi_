@@ -1,0 +1,16 @@
+Query: The government health centre has no medicines available.
+Expected department(s): Health
+
+FAISS TOP-5
+1. G245 | Health|Sanitation | 0.7607 | The public clinic has no medicines and medical waste is lying outside.
+2. G175 | Health | 0.4829 | Please address the issue that government clinic is short of medicines near the school and request urgent action.
+3. G159 | Health | 0.4487 | A citizen reports that government clinic is short of medicines near the school This is affecting daily life in the area.
+4. G167 | Health | 0.4411 | A citizen reports that government clinic is short of medicines in the apartment neighborhood and request urgent action.
+5. G151 | Health | 0.4411 | A citizen reports that government clinic is short of medicines in the apartment neighborhood and request urgent action.
+
+ChromaDB TOP-5
+1. G245 | Health|Sanitation | 0.7607 | The public clinic has no medicines and medical waste is lying outside.
+2. G175 | Health | 0.4829 | Please address the issue that government clinic is short of medicines near the school and request urgent action.
+3. G159 | Health | 0.4487 | A citizen reports that government clinic is short of medicines near the school This is affecting daily life in the area.
+4. G151 | Health | 0.4411 | A citizen reports that government clinic is short of medicines in the apartment neighborhood and request urgent action.
+5. G167 | Health | 0.4411 | A citizen reports that government clinic is short of medicines in the apartment neighborhood and request urgent action.

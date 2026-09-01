@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Q01",
+    "query": "Street lights in my neighborhood have stopped working at night.",
+    "expected": "Electricity"
+  },
+  {
+    "id": "Q02",
+    "query": "Garbage is not being collected and waste is accumulating near houses.",
+    "expected": "Sanitation"
+  },
+  {
+    "id": "Q03",
+    "query": "There are dangerous potholes and damaged road surfaces on the main road.",
+    "expected": "Roads"
+  },
+  {
+    "id": "Q04",
+    "query": "Residents have had no municipal drinking water since yesterday.",
+    "expected": "Water Supply"
+  },
+  {
+    "id": "Q05",
+    "query": "The city bus is irregular and often skips the scheduled stop.",
+    "expected": "Public Transport"
+  },
+  {
+    "id": "Q06",
+    "query": "The government health centre has no medicines available.",
+    "expected": "Health"
+  },
+  {
+    "id": "Q07",
+    "query": "My property tax portal is not working.",
+    "expected": "Municipal Services"
+  },
+  {
+    "id": "Q08",
+    "query": "A broken CCTV camera is making the public area unsafe.",
+    "expected": "Public Safety"
+  },
+  {
+    "id": "Q09",
+    "query": "Street lights are not working and garbage has not been collected in my area.",
+    "expected": "Electricity|Sanitation"
+  },
+  {
+    "id": "Q10",
+    "query": "There is a leaking water pipeline beside a road with potholes.",
+    "expected": "Water Supply|Roads"
+  }
+]
