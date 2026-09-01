@@ -1,0 +1,15 @@
+QUESTION 2:
+cd Q2_Student_Academic_Support_Chatbot
+py -m venv C:\venvs\q2chatbot
+C:\venvs\q2chatbot\Scripts\Activate.ps1
+pip install -r requirements.txt
+streamlit run app.py
+
+QUESTION 40:
+cd Q40_Intelligent_AI_Assistant
+py -m venv C:\venvs\q40assistant
+C:\venvs\q40assistant\Scripts\Activate.ps1
+pip install -r requirements.txt
+streamlit run app.py
+
+Do not upload .venv folders to GitHub.

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "A01",
+    "category": "Attendance",
+    "question": "What is the minimum attendance requirement?",
+    "answer": "Students are expected to maintain the attendance percentage prescribed by the institution. Check the current academic regulations or contact the department office for the exact requirement."
+  },
+  {
+    "id": "A02",
+    "category": "Attendance",
+    "question": "What happens if my attendance is low?",
+    "answer": "Low attendance may affect examination eligibility according to institutional rules. Students should check their attendance portal and contact the class advisor early."
+  },
+  {
+    "id": "A03",
+    "category": "Attendance",
+    "question": "How can I check my attendance?",
+    "answer": "Check the official student portal or attendance-management system used by your institution. Contact your class advisor if the record appears incorrect."
+  },
+  {
+    "id": "A04",
+    "category": "Assignments",
+    "question": "How can I submit an assignment?",
+    "answer": "Submit assignments through the platform specified by your faculty, such as the LMS, classroom portal, or department submission system. Verify the deadline and required file format."
+  },
+  {
+    "id": "A05",
+    "category": "Assignments",
+    "question": "What if I miss an assignment deadline?",
+    "answer": "Contact the concerned faculty member as soon as possible and explain the situation. Late submission rules depend on the course and faculty policy."
+  },
+  {
+    "id": "A06",
+    "category": "Assignments",
+    "question": "Can I resubmit an assignment?",
+    "answer": "Resubmission depends on the assignment policy. Check the LMS instructions or ask the subject faculty before uploading another version."
+  },
+  {
+    "id": "A07",
+    "category": "Examinations",
+    "question": "When are internal examinations conducted?",
+    "answer": "Internal examination dates are published through the official academic calendar or department notice. Check the latest timetable before making plans."
+  },
+  {
+    "id": "A08",
+    "category": "Examinations",
+    "question": "How do I register for an examination?",
+    "answer": "Use the official examination-registration portal during the notified registration window and complete any required fee payment and subject selection."
+  },
+  {
+    "id": "A09",
+    "category": "Examinations",
+    "question": "Where can I get my hall ticket?",
+    "answer": "Hall-ticket availability is normally announced through the official examination portal or student portal. Download it after the institution activates the link."
+  },
+  {
+    "id": "A10",
+    "category": "Examinations",
+    "question": "What should I carry to the examination hall?",
+    "answer": "Carry the required hall ticket and valid student identification. Follow the examination-cell instructions for permitted stationery and devices."
+  },
+  {
+    "id": "A11",
+    "category": "Subjects",
+    "question": "What subjects are in semester 7?",
+    "answer": "The semester subjects depend on the programme and curriculum batch. Use the official department syllabus for your programme and regulation year."
+  },
+  {
+    "id": "A12",
+    "category": "Subjects",
+    "question": "What are the prerequisites for a course?",
+    "answer": "Prerequisites vary by course. Check the syllabus or course information published by the department."
+  },
+  {
+    "id": "A13",
+    "category": "Academic Schedule",
+    "question": "Where can I find the academic calendar?",
+    "answer": "The latest academic calendar should be available through the institution's official academic portal or website."
+  },
+  {
+    "id": "A14",
+    "category": "Academic Schedule",
+    "question": "When does the next semester start?",
+    "answer": "Check the latest official academic calendar for the published semester-start date because schedules can change."
+  },
+  {
+    "id": "A15",
+    "category": "Academic Schedule",
+    "question": "When is the last date to register for an examination?",
+    "answer": "The last date is announced by the examination cell. Check the current notification or examination portal to avoid missing the registration window."
+  },
+  {
+    "id": "A16",
+    "category": "Academic Support",
+    "question": "Who should I contact about an academic problem?",
+    "answer": "Start with the subject faculty or class advisor. For formal academic issues, contact the department office or the designated academic coordinator."
+  },
+  {
+    "id": "A17",
+    "category": "Subjects",
+    "question": "How do I get the syllabus for my subject?",
+    "answer": "Download the current syllabus from the official department or student portal. Make sure you use the syllabus for your programme and regulation year."
+  },
+  {
+    "id": "A18",
+    "category": "Assignments",
+    "question": "How do I know the assignment format?",
+    "answer": "Check the assignment instructions provided by the faculty. They should specify the format, submission method, naming convention, and deadline."
+  },
+  {
+    "id": "A19",
+    "category": "Attendance",
+    "question": "Can attendance be corrected if it is marked wrongly?",
+    "answer": "Inform the concerned faculty or class advisor promptly and provide supporting details. Corrections depend on verification of the attendance record."
+  },
+  {
+    "id": "A20",
+    "category": "Examinations",
+    "question": "What if I have a clash between two examinations?",
+    "answer": "Report the clash to the examination cell or department immediately. Follow the official process for timetable-conflict resolution."
+  }
+]
